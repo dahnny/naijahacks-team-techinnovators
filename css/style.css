@@ -3121,3 +3121,21 @@ h6 {
 /*---------------------------------------------------- */
 
 /*# sourceMappingURL=style.css.map */
+
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1000px!important;
+  }
+}
+
+@media (min-width: 992px) {
+  .container {
+    max-width: 790px!important;
+  }
+}
+
+@media (min-width: 576px) {
+  .container {
+    max-width: 540px;
+  }
+}
